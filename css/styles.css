@@ -1,0 +1,87 @@
+body {
+    font-size: 16px;
+    color: ;
+    background-color: antiquewhite;
+    font-family: 'Oxygen', sans-serif;
+}
+
+#header-nav {
+    background-color: lightslategrey;
+    border: 2px solid black;
+    margin: 0;
+    padding: 0;
+
+}
+#navbar-button {
+    border: 1px solid black;
+}
+
+
+nav div div h1 {
+    margin: 1px;
+}
+
+#navbar-options {
+    text-align: center;
+}
+
+nav h1 {
+    text-align: center;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+h1 {
+    text-align: center;
+    margin: 30px;
+        
+}
+
+#navbar2 {
+    float: right;
+    margin: 10px;
+    color: black;
+    font-size: 20px;
+    
+}
+
+#navbar3 {
+    float: right;
+    margin: 0;
+    color: black;
+    font-size: 20px;
+    
+}
+#menu {
+    margin-bottom: 30px;
+    float: left;
+   
+}
+
+#menu2 {
+    background-color: lightgray;
+    width: 95%;
+    height: auto;
+    text-align: center;
+    border: 2px solid black;
+    padding: 10px;
+}
+
+li {
+    font-size: 20px;
+    text-align: center;
+    border-top: 1px solid black;
+}
+
+.navbar-collapse {
+    width: 100%;
+  background-color: lightgray;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    left:0;
+}
+.navbar-collapse .navbar {
+    width: 100% !important;
+}
+
